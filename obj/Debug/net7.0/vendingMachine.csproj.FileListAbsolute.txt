@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/bin/Debug/net7.0/vendingMachine
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/bin/Debug/net7.0/vendingMachine.deps.json
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/bin/Debug/net7.0/vendingMachine.runtimeconfig.json
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/bin/Debug/net7.0/vendingMachine.dll
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/bin/Debug/net7.0/vendingMachine.pdb
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.AssemblyInfo.cs
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.dll
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/refint/vendingMachine.dll
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.pdb
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/vendingMachine.genruntimeconfig.cache
+/Users/manishkumar/Downloads/MK1/WebApp/vendingMachine/obj/Debug/net7.0/ref/vendingMachine.dll
